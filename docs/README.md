@@ -1,4 +1,4 @@
-# User Docs (copy)
+# User Docs (copy 2)
 
 {% hint style="success" %}
 See [Snyk user hub](https://snyk.io/user-hub/) to access all Snyk knowledge resources.
