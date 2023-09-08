@@ -1,7 +1,5 @@
 # User Docs
 
-Commit from GitHub.
-
 {% hint style="success" %}
 See [Snyk user hub](https://snyk.io/user-hub/) to access all Snyk knowledge resources.
 {% endhint %}
@@ -35,12 +33,6 @@ See [Snyk user hub](https://snyk.io/user-hub/) to access all Snyk knowledge reso
 {% hint style="success" %}
 [Sign up to use Snyk for free!](https://snyk.io/login?cta=sign-up\&loc=nav\&page=support\_docs\_page)
 {% endhint %}
-
-Hello world
-
-Hello world
-
-Hello world
 
 Hello world
 
