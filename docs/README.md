@@ -33,3 +33,6 @@ See [Snyk user hub](https://snyk.io/user-hub/) to access all Snyk knowledge reso
 {% hint style="success" %}
 [Sign up to use Snyk for free!](https://snyk.io/login?cta=sign-up\&loc=nav\&page=support\_docs\_page)
 {% endhint %}
+
+$$E = mc^2$$ 
+
